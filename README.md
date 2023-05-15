@@ -1,2 +1,2 @@
 # Scala-Programs
-Collection of Some Scala Progrmas
+Collection of Some Scala Programs
